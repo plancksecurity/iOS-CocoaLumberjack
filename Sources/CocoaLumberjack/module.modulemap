@@ -1,0 +1,4 @@
+module CocoaLumberjack_macOS {
+    umbrella header "CocoaLumberjack.h"
+    export *
+}
